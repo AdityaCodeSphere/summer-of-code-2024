@@ -64,4 +64,4 @@ You have to strictly use HTML, CSS5 (no other CSS frameworks are allowed! This i
 
 - You will notice the positioning looks out of place in a mobile view. To solve this read about breakpoints (small screens, medium screens, large screens, etc.)
 - You will also notice the fontsize seems too big or too small in some views. Try fixing this by learning more about font size units.
-- Try fixing the layout of your sign up and login pages for different views (at different breakpoints).
+- Try fixing the layout of your sign up and login pages for different views (at different breakpoints).  
